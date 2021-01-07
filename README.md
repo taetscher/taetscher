@@ -13,25 +13,25 @@ Here is some more information about the pinned repositories:
 
 #### Personal Projects
 
-- handballStats 
-    - This is a personal project, where statistics of Handball teams playing in the highest leagues of the Swiss Handball Federation (SHV) are scraped from the SHV's website, then cleaned and visualized interactively using GitHub Pages and D3.js.
+- [handballStats](https://github.com/taetscher/handballStats)
+    - This is a personal project, where statistics of Handball teams playing in the highest leagues of the Swiss Handball Federation (SHV) are scraped from the SHV's website, then cleaned and [visualized interactively using GitHub Pages](https://taetscher.github.io/handballStats/) and D3.js.
 
 
 #### Projects from University
-- Masters Thesis 
+- [Masters Thesis](https://github.com/taetscher/MastersThesis)
     - Here you can find a PDF of my Masters Thesis, which bears the title: _Bigger is Better. Or is it? Lessons learned from applying a deep neural network to Twitter posts in order to estimate potentials of using big data to monitor the UN Sustainable Development Goals._
     
-- ICARUS 
+- [ICARUS](https://github.com/taetscher/ICARUS)
     - Here you can find the coding repo of the above thesis. 
     
-- interactiveICARUS 
-    - GitHub Pages page that interactively visualizes some of the results from my thesis using D3.js.
+- [interactiveICARUS](https://github.com/taetscher/interactiveICARUS) 
+    - [GitHub Pages page](https://taetscher.github.io/interactiveICARUS/) that interactively visualizes some of the results from my thesis using D3.js.
     
-- Volcanic Ash Plume Modeling 
+- [Volcanic Ash Plume Modeling](https://github.com/taetscher/2018-volcanic-ash-plume)
     - Student Project where we modeled the ash plume and air traffic hazard zones of the 2010 Eyjafjallajökull eruption.
     
-- Badewetterindex 
-    - Student Project where we calculated a "bathing weather index" for Switzerland and visualized it interactively with D3.js.
+- [Badewetterindex](https://github.com/taetscher/OpenData_taetscher)
+    - Student Project where we calculated a "bathing weather index" for Switzerland and visualized it interactively with D3.js. Take a look at the [official Website](https://badewetter-index-schweiz.opendata.iwi.unibe.ch/)!
 
 
 
