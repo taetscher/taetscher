@@ -13,8 +13,8 @@ Here is some more information about the pinned repositories:
 
 #### Personal Projects
 
-- [handballStats](https://github.com/taetscher/handballStats)
-    - This is a personal project, where statistics of Handball teams playing in the highest leagues of the Swiss Handball Federation (SHV) are scraped from the SHV's website, then cleaned and [visualized interactively using GitHub Pages](https://taetscher.github.io/handballStats/) and D3.js.
+- [handballStats](https://github.com/taetscher/HBS)
+    - This is a personal project, where statistics of Handball teams playing in the highest leagues of the Swiss Handball Federation (SHV) are scraped from the SHV's website, then cleaned and [visualized interactively using GitHub Pages](https://taetscher.github.io/HBS/) and D3.js.
 
 
 #### Projects from University
