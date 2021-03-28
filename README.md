@@ -14,7 +14,7 @@ Here is some more information about the pinned repositories:
 #### Personal Projects
 
 - [handballStats](https://github.com/taetscher/HBS)
-    - This is a personal project, where statistics of Handball teams playing in the highest leagues of the Swiss Handball Federation (SHV) are scraped from the SHV's website, then cleaned and [visualized interactively using GitHub Pages](https://taetscher.github.io/HBS/) and D3.js.
+    - This is a personal project, where statistics of Handball teams playing in the highest leagues of the Swiss Handball Federation (SHV) are scraped from the SHV's website, then cleaned and [visualized interactively using GitHub Pages](https://taetscher.github.io/HBS/) and D3.js. It features automatic updates via a raspberry pi set up to scrape data in 45 minute intervals on Wed, Sat and Sun between 10:00am and 23:00pm.
 
 
 #### Projects from University
