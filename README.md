@@ -8,7 +8,7 @@ I'm a Geographer by trade (MSc, specialization in GIS) who likes to code. Intere
 [![image](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13389221/taetscher)
 
 ### What you'll find here
-My projects are focused on areas where coding can make life easier or even automate aspects of it.
+My projects are focused on areas where coding can make life easier.
 Here is some more information about the pinned repositories:
 
 #### Personal Projects
