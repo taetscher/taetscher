@@ -13,6 +13,10 @@ Here is some more information about the pinned repositories:
 
 #### Personal Projects
 
+- [Travelling Map](https://github.com/taetscher/travels)
+    - Personal project using [maplibre-gl-js](https://maplibre.org/) and QGIS to visualize my travels interactively. Features pop-ups linked to corresponding Wikipedia-articles.
+
+
 - [handballStats](https://github.com/taetscher/HBS)
     - This is a personal project, where statistics of Handball teams playing in the highest leagues of the Swiss Handball Federation (SHV) are scraped from the SHV's website, then cleaned and [visualized interactively using GitHub Pages](https://taetscher.github.io/HBS/) and D3.js. It features automatic updates via a raspberry pi set up to scrape data in 45 minute intervals on Wed, Sat and Sun between 10:00am and 23:00pm.
 
